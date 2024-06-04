@@ -27,6 +27,18 @@
     <link href="https://assets-global.website-files.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link href="https://assets-global.website-files.com/img/webclip.png" rel="apple-touch-icon">
 </head>
+<script>
+    window.datLayer = window.dataLayer ||[];
+    window.dataLayer.push({
+        event: 'Purchase',
+
+        conversionID: 'temp123',
+        email: 'abc@email.com',
+        currency: 'USD',
+        transactionValue: '999.99',
+        product: {"ID":"abc123", "category":"Item", "name":"My Item"}
+    });
+</script>
 
 <body class="body">
     <div data-collapse="medium" data-animation="default" data-duration="400"
