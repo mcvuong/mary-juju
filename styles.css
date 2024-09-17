@@ -1,0 +1,38 @@
+body {
+    font-size: 2vh;
+    line-height: calc(2vh*1.85);
+}
+
+.heading-jumbo-small, .button, .cta, .heading-jumbo-tiny, .paragraph-4, p.paragraph-2, .link, .text-block, .heading-link, .paragraph-small-color {
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.heading-jumbo {
+    font-size:calc(2vh*2);
+}
+.paragraph-small, p.paragraph {
+    font-size:calc(2vh*1.125);
+    line-height: calc(2vh*2.5);
+}
+
+.paragraph-small {
+    font-size:calc(2vh*2);
+    line-height: calc(2vh*2);
+}
+
+.heading-jumbo-small {
+    font-weight:600    
+}
+
+.inside-container {
+    padding-left: 2.5vw;
+    padding-right: 2.5vw;
+}
+
+.pink-container {
+    padding: 2.5vw;
+}
+.paragraph-4, .button {
+    padding-bottom:2.5vw;
+}
