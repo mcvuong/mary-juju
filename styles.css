@@ -34,5 +34,9 @@ body {
     padding: 2.5vw;
 }
 .paragraph-4, .button {
-    margin:2.5vw;
+    margin-bottom:2.5vw;
+}
+
+.paragraph-2 {
+    padding: 1vw 10vw;
 }
