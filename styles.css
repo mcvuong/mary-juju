@@ -11,7 +11,7 @@ body {
 .heading-jumbo {
     font-size:calc(2vh*2);
 }
-.paragraph-small, p.paragraph {
+.paragraph-small, p.paragraph, .heading-6 {
     font-size:calc(2vh*1.125);
     line-height: calc(2vh*2.5);
 }
