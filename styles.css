@@ -25,18 +25,12 @@ body {
     font-weight:600    
 }
 
-.inside-container {
-    padding-left: 2.5vw;
-    padding-right: 2.5vw;
-}
-
 .pink-container {
     padding: 2.5vw;
 }
 .paragraph-4, .button {
     margin-bottom:2.5vw;
 }
-
 .paragraph-2 {
-    padding: 1vw 10vw;
+    padding: inherit;
 }
