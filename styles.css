@@ -40,6 +40,3 @@ body {
 .paragraph-2 {
     padding: 1vw 10vw;
 }
-@media (min-width: 400px) {
-    iframe {zoom: 2.25;}
-}
